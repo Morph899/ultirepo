@@ -1,0 +1,276 @@
+{"frames": [
+
+{
+	"filename": "cardback2.png",
+	"frame": {"x":2,"y":2,"w":215,"h":295},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":295},
+	"sourceSize": {"w":215,"h":295}
+},
+{
+	"filename": "makk_also.png",
+	"frame": {"x":219,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_asz.png",
+	"frame": {"x":381,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_felso.png",
+	"frame": {"x":543,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_het.png",
+	"frame": {"x":705,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_kilenc.png",
+	"frame": {"x":867,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_kiraly.png",
+	"frame": {"x":1029,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_nyolc.png",
+	"frame": {"x":1191,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "makk_tiz.png",
+	"frame": {"x":1353,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_also.png",
+	"frame": {"x":1515,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_asz.png",
+	"frame": {"x":1677,"y":2,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_felso.png",
+	"frame": {"x":2,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_het.png",
+	"frame": {"x":164,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_kilenc.png",
+	"frame": {"x":326,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_kiraly.png",
+	"frame": {"x":488,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_nyolc.png",
+	"frame": {"x":650,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "sziv_tiz.png",
+	"frame": {"x":812,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_also.png",
+	"frame": {"x":974,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_asz.png",
+	"frame": {"x":1136,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_felso.png",
+	"frame": {"x":1298,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_het.png",
+	"frame": {"x":1460,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_kilenc.png",
+	"frame": {"x":1622,"y":299,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_kiraly.png",
+	"frame": {"x":2,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_nyolc.png",
+	"frame": {"x":164,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "tok_tiz.png",
+	"frame": {"x":326,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_also.png",
+	"frame": {"x":488,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_asz.png",
+	"frame": {"x":650,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_felso.png",
+	"frame": {"x":812,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_het.png",
+	"frame": {"x":974,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_kilenc.png",
+	"frame": {"x":1136,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_kiraly.png",
+	"frame": {"x":1298,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_nyolc.png",
+	"frame": {"x":1460,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+},
+{
+	"filename": "zold_tiz.png",
+	"frame": {"x":1622,"y":583,"w":160,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":282},
+	"sourceSize": {"w":160,"h":282}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cards_texture_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1839,"h":867},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ebdad3af024c33926fb21dc14dacc10:f454efe469a40cc7bada5e2ab449d019:ef7f1afcf8e1816d6a49eee9381ea58b$"
+}
+}
